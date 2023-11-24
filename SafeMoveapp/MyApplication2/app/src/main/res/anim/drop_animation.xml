@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 위에서 아래로 내려오는 효과 -->
+    <translate
+        android:duration="2000"
+        android:fromYDelta="-100%p"
+        android:toYDelta="0" />
+
+    <!-- 확대 효과 (1배 크기에서 1.5배 크기로) -->
+    <scale
+        android:startOffset="2000"
+        android:duration="500"
+        android:fromXScale="1.0"
+        android:fromYScale="1.0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1.5"
+        android:toYScale="1.5"
+        android:fillAfter="true"
+        />
+
+    <scale
+        android:startOffset="2500"
+        android:duration="500"
+        android:fromXScale="1.5"
+        android:fromYScale="1.5"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1.0"
+        android:toYScale="1.0"
+        android:fillAfter="true"
+        />
+
+
+    <translate
+        android:duration="1000"
+        android:fromYDelta="0"
+        android:toYDelta="-200"
+        android:startOffset="3000"
+        android:fillAfter="true"/>
+
+</set>

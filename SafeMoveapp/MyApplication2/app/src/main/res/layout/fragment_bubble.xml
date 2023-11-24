@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        app:backgroundTint="@color/light_green"
+        android:fontFamily="@font/calibri"
+        android:text="비상 연락망"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button2"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        app:backgroundTint="@color/light_green"
+        android:fontFamily="@font/calibri"
+        android:text="연결자 확인"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button3"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="5dp"
+        app:backgroundTint="@color/light_green"
+        android:fontFamily="@font/calibri"
+        android:text="내 정보"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+
+
+</LinearLayout>
