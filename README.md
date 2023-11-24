@@ -10,8 +10,9 @@ SafeMove는 신체적 재난약자를 위해 안전한 이동 경로를 제공�
 
 ## 실행화면
 <img width="298" alt="시작화면" src="https://github.com/zazasj/SaveMove/assets/105793155/037eda5e-767c-4a09-9f3f-592d40e9ef80">
-![메인 지도 화면](https://github.com/zazasj/SaveMove/assets/105793155/da962deb-fe6d-4a74-abd8-e987e954c28b)
-![위험지역 마커 정보 화면](https://github.com/zazasj/SaveMove/assets/105793155/982f4c00-934f-4335-8cc4-afbe3b06e810)
+![위험지역 접근 알림 화면](https://github.com/zazasj/SaveMove/assets/105793155/0270cb98-3de7-401c-b709-e12c331c9093)
+
+![위험지역 마커 정보 화면](https://github.com/zazasj/SaveMove/assets/105793155/b60a3c8d-1fef-4fdc-9812-9ac701924b92)
 
 ## Result
 제5회 kdt 해커톤 
