@@ -6,7 +6,20 @@ SafeMove는 신체적 재난약자를 위해 안전한 이동 경로를 제공�
 
 
 ## 시스템 구조도 
-![시스템구조도](https://github.com/zazasj/SaveMove/assets/105793155/0b702dd5-269f-4772-9c40-a3998f6960c1)
+![시스템구조도](https://github.com/zazasj/SaveMove/assets/105793155/5dc98dbd-e16e-476a-b503-fdecbefa382b)
+
+
+## DB 구조도 
+![smdb](https://github.com/zazasj/SaveMove/assets/105793155/51e5c2d4-edc0-4362-a094-bcb809dc49fe)
+
+
+## 프로그램 개발 및 역할 
+![프로그램 개발 역할](https://github.com/zazasj/SaveMove/assets/105793155/3a4f3e8d-76d9-41f9-9bc8-9103c8602044)
+
+
+## 간트 차트
+![간트차트](https://github.com/zazasj/SaveMove/assets/105793155/3ddf3f9d-055e-4696-afa1-ba640efcca88)
+
 
 ## 실행화면
 <img width="298" alt="시작화면" src="https://github.com/zazasj/SaveMove/assets/105793155/037eda5e-767c-4a09-9f3f-592d40e9ef80">
@@ -17,7 +30,13 @@ SafeMove는 신체적 재난약자를 위해 안전한 이동 경로를 제공�
 ## Result
 제5회 kdt 해커톤 
 약 200여팀중 52개팀으로 선발
-![참가팀-합격-발표(공지)](https://github.com/zazasj/SaveMove/assets/105793155/e5579e05-9a42-43e7-a8c8-03db28a444e1)
+![참가팀-합격-발표(공지)](https://github.com/zazasj/SaveMove/assets/105793155/f0a8115b-9e2e-49da-bb96-b21f4b907296)
 아쉽게 본선8팀에는 진출하지 못함.
 완벽하게 구현하진 못했지만 짧은시간안에 많은 경험을 하고 발전함. 
+
+
+
+
+
+
 
